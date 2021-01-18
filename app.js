@@ -1,7 +1,7 @@
 // mkdir to create a folder called "newslettersignup"
 // cd newslettersignup
 // touch app.js signup.html success.html failure.hmtmto create necessary files.
-// node init to builde the express server in localhost (localhost:3000)
+// npm init to builde the express server in localhost (localhost:3000)
 //nodemon app.js to start the server 
 // atom . or code to use Atom or VS Code
 const express = require("express");
